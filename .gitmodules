@@ -1,39 +1,3 @@
-[submodule "claude-client"]
-	path = claude-client
-	url = https://github.com/ChaseNoCapDev/claude-client.git
-[submodule "context-aggregator"]
-	path = context-aggregator
-	url = https://github.com/ChaseNoCapDev/context-aggregator.git
-[submodule "event-system"]
-	path = event-system
-	url = https://github.com/ChaseNoCapDev/event-system.git
-[submodule "file-system"]
-	path = file-system
-	url = https://github.com/ChaseNoCapDev/file-system.git
-[submodule "github-graphql-client"]
-	path = github-graphql-client
-	url = https://github.com/ChaseNoCapDev/github-graphql-client.git
-[submodule "graphql-toolkit"]
-	path = graphql-toolkit
-	url = https://github.com/ChaseNoCapDev/graphql-toolkit.git
-[submodule "logger"]
-	path = logger
-	url = https://github.com/ChaseNoCapDev/logger.git
-[submodule "prompt-toolkit"]
-	path = prompt-toolkit
-	url = https://github.com/ChaseNoCapDev/prompt-toolkit.git
-[submodule "sdlc-config"]
-	path = sdlc-config
-	url = https://github.com/ChaseNoCapDev/sdlc-config.git
-[submodule "sdlc-content"]
-	path = sdlc-content
-	url = https://github.com/ChaseNoCapDev/sdlc-content.git
-[submodule "sdlc-engine"]
-	path = sdlc-engine
-	url = https://github.com/ChaseNoCapDev/sdlc-engine.git
-[submodule "ui-components"]
-	path = ui-components
-	url = https://github.com/ChaseNoCapDev/ui-components.git
 [submodule "meta-gothic-framework"]
 	path = meta-gothic-framework
 	url = https://github.com/ChaseNoCap/meta-gothic-framework.git
